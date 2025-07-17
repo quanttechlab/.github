@@ -53,7 +53,7 @@ AI/ML: TensorFlow
 ## 📞 Contact Information
 
 - **Address:** 103 Ibraimova Street, Sverdlovsky District, Bishkek, Kyrgyz Republic
-- **Email:** info@quanttech.kg
+- **Email:** support@q1f.kg
 - **Website:** [q1f.kg](https://q1f.kg)
 
 ## 📄 License
